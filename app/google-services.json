@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982655954171",
+    "project_id": "itlessonchat-cc0bc",
+    "storage_bucket": "itlessonchat-cc0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982655954171:android:0a5a0e4e8607171a21145e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982655954171-fun3p581psvmj012hjsk756f8ortb0eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWqNP15PDCWRpgdAAIYmKbA8eKYR6WLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982655954171-fun3p581psvmj012hjsk756f8ortb0eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
